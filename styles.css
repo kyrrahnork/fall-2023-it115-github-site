@@ -1,0 +1,16 @@
+body {
+	width: 100%;
+	background-color: #e6e7e8;
+}
+
+h1 {
+	text-align: center;
+}
+
+.content {
+	height: 300px;
+	width: 80%;
+	margin: 0 auto;
+	background-color: #fff;
+	border-radius: 10px;
+}
